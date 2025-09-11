@@ -44,7 +44,7 @@ A comprehensive 360-degree virtual tour application for the Asia Pacific Univers
    - `L3I1.JPEG` through `L3I6.JPEG` for Level 3 locations
    - `L4BA.JPEG`, `L4BBB.JPEG`, `L4BD.JPEG`, etc. for Level 4 locations
 4. **Include the CSS file** (`styles.css`) with your custom styling
-5. **Host on a web server** (required for proper file loading)
+5. **Host on a web server** (required for proper file loading) - run a command: python3 -m http.server
 
 ## Usage
 
