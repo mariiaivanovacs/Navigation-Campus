@@ -2,9 +2,11 @@
 
 A comprehensive 360-degree virtual tour application for the Asia Pacific University (APU) campus, built with HTML5, JavaScript, and the Pannellum panoramic viewer library.
 
-<img width="460" height="600" styles="display: flex; justify-content: center" alt="Screenshot 2025-09-11 at 11 22 02 PM" src="https://github.com/user-attachments/assets/39f43d1b-7a49-42ec-a412-cb5fcd95dcbf" />
-<img width="1010" height="865" alt="Screenshot 2025-09-11 at 11 22 57 PM" src="https://github.com/user-attachments/assets/56e4b336-b91c-4fbd-abb9-3f7dbf6f0541" />
+## Video Preview
 
+[![Demo video](https://github.com/user-attachments/assets/af05bbb2-5b15-425a-b666-52087c2cb5ce)](https://youtu.be/2ahyZ1LY9Tk?si=5jf8SCw8n_hjZX0r)
+
+---
 
 ## Features
 
